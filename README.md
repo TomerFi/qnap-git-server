@@ -1,4 +1,13 @@
-# qnap-git-server
+# qnap-git-server</br>![Maintenance](https://img.shields.io/maintenance/no/2018.svg)
+
+**NOT MAINTAINED!**
+
+I'm no longer maintaining this docker image.
+
+You can still use the files :point_up:, if you want.</br>
+These :point_down: are the instructions.
+
+__________________________________________
 
 Host your own Git repositories on QNAP server
 
